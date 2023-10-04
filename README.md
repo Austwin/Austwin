@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Austwin
 - 👀 I’m interested in just learning how to be better at software development and doing some side projects that could help me get a job. 
-- 🌱 I’m currently learning AI, operating systems, concepts of programming languages, and algorithm analysis at KSU.
 - 💞️ I’m looking to collaborate on projects that could help me get my foot in the door with a job in the future. And to simply learn and grow my skills.
 - 📫 How to reach me: austsethw@gmail.com
 
